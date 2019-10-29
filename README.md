@@ -10,3 +10,4 @@
 	b) Multiply numbers taken as input from user
 	c) Multiply numbers taken as input from user(function)
 	
+3. Add numbers inside a list
